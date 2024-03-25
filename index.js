@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('ya sabia que me preferirias')
+    alert('ESOOOOOOO LA TQM PATRONA')
 });
 
 const noBtn = document.querySelector('#noBtn');
